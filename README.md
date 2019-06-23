@@ -1,3 +1,3 @@
 # MNIST
 
-Implementation of handwritten digit
+Implementation of handwritten digit recognition
