@@ -1,0 +1,4 @@
+#install the dependencies by using the following command in shell
+#pip install -r requirements
+keras
+tensorflow == 1.14
