@@ -2,3 +2,4 @@
 #pip install -r requirements
 keras
 tensorflow == 1.14
+opencv-python
